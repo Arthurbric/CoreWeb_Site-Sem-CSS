@@ -26,7 +26,7 @@ This project is a simple **HTML-only website**, designed to showcase basic struc
 1. Clone the repository:
    ```bash
    git clone https://github.com/arthurbric/CoreWeb_Site-Sem-CSS.git
-````
+```
 
 2. Navigate to the project folder and open the main HTML file:
 
