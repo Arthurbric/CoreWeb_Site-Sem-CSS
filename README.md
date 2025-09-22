@@ -1,14 +1,6 @@
-# Project Name Suggestions
-Here are 5 potential names for your HTML website:
-1. **SimpleWeb**
-2. **HTMLBasics**
-3. **CleanPage**
-4. **PlainSite**
-5. **CoreWeb**
 
----
+# Overview --> CoreWeb_Site-Sem-CSS
 
-# Overview
 This project is a simple **HTML-only website**, designed to showcase basic structure and content without CSS styling. It focuses on semantic HTML elements, proper document structure, and readability.
 
 ---
@@ -50,7 +42,3 @@ This project is a simple **HTML-only website**, designed to showcase basic struc
 ## License
 
 This project is licensed under the MIT License.
-
-
-If you want, I can also **write a short résumé-friendly version** for this HTML-only site so you can include it as a project bullet. Do you want me to do that?
-```
